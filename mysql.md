@@ -1,4 +1,4 @@
-# 数据库-1
+# 数据库
 ### 更新源
 *用vim打开源列表*
 sudo vim /etc/apt/sources.list
